@@ -1,0 +1,12 @@
+{
+    "name": "bbec/shop",
+    "description": "Burnside Merit Shop",
+    "authors": [
+        {
+            "name": "Andrew",
+            "email": "amaughan@burnsidecollege.org.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
